@@ -4,7 +4,7 @@ from api.views import course,deep_technology
 
 
 urlpatterns = [
-    # 方式三方式三方式三
+    # 方
     # url(r'^course/$', course.CourseView.as_view()),
     # print(‘春生213’)
     # print('春生465')
