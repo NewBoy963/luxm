@@ -9,6 +9,7 @@ urlpatterns = [
     # print(‘春生213’)
     # print('春生465')
     # print "987"
+    # print('2B')  print('春生465')
     # url(r'^course/(?P<pk>\d+)/$', course.CourseView.as_view()),
 
     # 方式二
