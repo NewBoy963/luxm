@@ -1,5 +1,3 @@
-
-
 from api.models import *
 from api.serialize.deep_technology_serialize import *
 from rest_framework.viewsets import GenericViewSet,ViewSetMixin
