@@ -110,6 +110,6 @@ class CommentView(ViewSetMixin,APIView):
             ret['data'] = ser.data
         except Exception as e:
             ret['code'] = 1001
-            ret['error'] = '获取收藏失败'
+            ret['error'] = '获取收藏失败2'
 
         return Response(ret)
