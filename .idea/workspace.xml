@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afba60a1-6ddc-4b90-9d6d-c62238dc8e63" name="Default" comment="" />
+    <list default="true" id="afba60a1-6ddc-4b90-9d6d-c62238dc8e63" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/api/views/deep_technology.py" afterPath="$PROJECT_DIR$/api/views/deep_technology.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +98,7 @@
               <folding>
                 <element signature="e#2#26#0" expanded="true" />
                 <element signature="e#784#1341#0" expanded="false" />
-                <element signature="e#1911#1958#0" expanded="false" />
+                <element signature="e#1912#1959#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -167,6 +169,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -194,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="377" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
@@ -309,12 +314,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14397322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -390,7 +395,7 @@
           <folding>
             <element signature="e#2#26#0" expanded="true" />
             <element signature="e#784#1341#0" expanded="false" />
-            <element signature="e#1911#1958#0" expanded="false" />
+            <element signature="e#1912#1959#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -479,7 +484,7 @@
           <folding>
             <element signature="e#2#26#0" expanded="true" />
             <element signature="e#784#1341#0" expanded="false" />
-            <element signature="e#1911#1958#0" expanded="false" />
+            <element signature="e#1912#1959#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -844,7 +849,7 @@
           <folding>
             <element signature="e#2#26#0" expanded="true" />
             <element signature="e#784#1341#0" expanded="false" />
-            <element signature="e#1911#1958#0" expanded="false" />
+            <element signature="e#1912#1959#0" expanded="false" />
           </folding>
         </state>
       </provider>

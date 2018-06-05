@@ -65,7 +65,7 @@ class CollectionView(ViewSetMixin,APIView):
         except Exception as e:
             print(e)
             ret['code'] = 1001
-            ret['error'] = '获取收藏失败'
+            ret['error'] = '获取收藏失败1'
 
         return Response(ret)
 
