@@ -7,7 +7,7 @@ urlpatterns = [
     # 方式三方式三方式三
     # url(r'^course/$', course.CourseView.as_view()),
     # print(‘春生213’)
-    # print('2B')
+    # print('2B')  print('春生465')
     # url(r'^course/(?P<pk>\d+)/$', course.CourseView.as_view()),
 
     # 方式二
