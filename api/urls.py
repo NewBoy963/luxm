@@ -4,7 +4,7 @@ from api.views import course,deep_technology
 
 
 urlpatterns = [
-    # 方式一
+    # 方式四方式四
     # url(r'^course/$', course.CourseView.as_view()),
     # url(r'^course/(?P<pk>\d+)/$', course.CourseView.as_view()),
 
