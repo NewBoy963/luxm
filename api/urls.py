@@ -7,7 +7,11 @@ urlpatterns = [
 <<<<<<< HEAD
     # 方式四方式四
 =======
+<<<<<<< HEAD
     # 方式六
+=======
+    # fangshi5
+>>>>>>> 1abfc16355583d0a9215c8074da9e4308d78a273
 >>>>>>> bfaa3883e224d473fa52cb4f7803de3eee76e843
     # url(r'^course/$', course.CourseView.as_view()),
     # print(‘春生213’)
