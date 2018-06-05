@@ -5,7 +5,7 @@ from api.views import course,deep_technology
 
 urlpatterns = [
 <<<<<<< HEAD
-    # 方式四方式四
+# 方式四方式四123
 =======
 <<<<<<< HEAD
     # 方式六
