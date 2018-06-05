@@ -10,6 +10,7 @@ urlpatterns = [
     # 方式六
 >>>>>>> bfaa3883e224d473fa52cb4f7803de3eee76e843
     # url(r'^course/$', course.CourseView.as_view()),
+    # print(‘春生213’)
     # url(r'^course/(?P<pk>\d+)/$', course.CourseView.as_view()),
 
     # 方式二
