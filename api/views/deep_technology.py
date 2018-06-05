@@ -91,7 +91,7 @@ class CollectionView(ViewSetMixin,APIView):
     #
     #     except Exception as e:
     #         ret['code'] = 1001
-    #         ret['error'] = '获取课程失败'
+    #         ret['error'] = '获取课程失败1'
     #
     #     return Response(ret)
 
