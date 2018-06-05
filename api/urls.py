@@ -6,6 +6,7 @@ from api.views import course,deep_technology
 urlpatterns = [
     # 方式一
     # url(r'^course/$', course.CourseView.as_view()),
+    # print(‘春生213’)
     # url(r'^course/(?P<pk>\d+)/$', course.CourseView.as_view()),
 
     # 方式二
