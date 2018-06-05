@@ -7,7 +7,7 @@ urlpatterns = [
 <<<<<<< HEAD
     # 方式四方式四
 =======
-    # 方式三方式三方式三
+    # fangshi5
 >>>>>>> bfaa3883e224d473fa52cb4f7803de3eee76e843
     # url(r'^course/$', course.CourseView.as_view()),
     # url(r'^course/(?P<pk>\d+)/$', course.CourseView.as_view()),
